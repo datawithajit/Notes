@@ -1,0 +1,51 @@
+Debt_ID,Customer_ID,Customer_Name,Outstanding_Amount,Due_Date,Days_Past_Due,Debt_Status,Payment_Method,Last_Contact_Date,Collection_Agent,Promise_to_Pay,Recovery_Amount
+D001,C001,Aarav Sharma,15000,2026-08-01,86,In Progress,UPI,2026-10-10,Agent_A,Yes,5000
+D002,C002,Priya Patel,8500,2026-09-15,41,Promise to Pay,Bank Transfer,2026-10-20,Agent_B,Yes,0
+D003,C003,Rohan Mehta,22000,2026-07-10,108,Pending,Not Specified,2026-10-05,Agent_C,No,0
+D004,C004,Ananya Singh,5000,2026-10-01,25,Partially Paid,UPI,2026-10-18,Agent_A,Yes,2000
+D005,C005,Vikram Joshi,12000,2026-08-20,67,In Progress,Debit Card,2026-10-15,Agent_D,No,3000
+D006,C006,Neha Gupta,7500,2026-10-10,5,Pending,Not Specified,2026-10-22,Agent_B,No,0
+D007,C007,Arjun Desai,30000,2026-06-15,133,In Progress,Bank Transfer,2026-10-12,Agent_C,Yes,10000
+D008,C008,Kavya Nair,4200,2026-09-25,31,Recovered,UPI,2026-10-20,Agent_A,Yes,4200
+D009,C009,Rahul Verma,18000,2026-08-05,82,Pending,Not Specified,2026-10-08,Agent_D,No,0
+D010,C010,Isha Kulkarni,9600,2026-09-05,51,Promise to Pay,UPI,2026-10-21,Agent_B,Yes,0
+D011,C011,Aditya Rao,14500,2026-07-25,97,In Progress,Bank Transfer,2026-10-14,Agent_C,No,4500
+D012,C012,Sneha Iyer,6800,2026-10-05,20,Partially Paid,UPI,2026-10-19,Agent_A,Yes,1800
+D013,C013,Karan Malhotra,25000,2026-06-30,118,Pending,Not Specified,2026-10-11,Agent_D,No,0
+D014,C014,Pooja Shah,3900,2026-10-15,0,Pending,Not Specified,2026-10-22,Agent_B,No,0
+D015,C015,Dev Patel,11000,2026-08-30,57,Promise to Pay,Bank Transfer,2026-10-20,Agent_C,Yes,0
+D016,C016,Meera Reddy,8200,2026-09-20,36,Recovered,UPI,2026-10-18,Agent_A,Yes,8200
+D017,C017,Siddharth Jain,19500,2026-07-15,103,In Progress,Credit Card,2026-10-13,Agent_D,No,5000
+D018,C018,Riya Kapoor,5600,2026-09-30,26,Partially Paid,UPI,2026-10-21,Agent_B,Yes,1600
+D019,C019,Varun Sethi,27500,2026-06-20,128,Pending,Not Specified,2026-10-07,Agent_C,No,0
+D020,C020,Tanvi Mishra,7300,2026-09-10,46,Promise to Pay,Bank Transfer,2026-10-22,Agent_A,Yes,0
+D021,C021,Manish Kumar,13200,2026-08-10,77,In Progress,UPI,2026-10-15,Agent_D,No,3200
+D022,C022,Simran Kaur,4800,2026-10-12,3,Pending,Not Specified,2026-10-23,Agent_B,No,0
+D023,C023,Akash Bansal,21000,2026-07-05,113,In Progress,Bank Transfer,2026-10-16,Agent_C,Yes,7000
+D024,C024,Diya Fernandes,6400,2026-09-18,38,Recovered,Debit Card,2026-10-20,Agent_A,Yes,6400
+D025,C025,Nikhil Pawar,15800,2026-08-15,72,Pending,Not Specified,2026-10-09,Agent_D,No,0
+D026,C026,Shruti Menon,9100,2026-09-08,48,Partially Paid,UPI,2026-10-19,Agent_B,Yes,3100
+D027,C027,Harsh Agarwal,32000,2026-06-10,138,In Progress,Bank Transfer,2026-10-17,Agent_C,No,8000
+D028,C028,Anika Bose,3500,2026-10-18,0,Pending,Not Specified,2026-10-23,Agent_A,No,0
+D029,C029,Pranav Sinha,12500,2026-08-25,62,Promise to Pay,UPI,2026-10-21,Agent_D,Yes,0
+D030,C030,Myra Thomas,7800,2026-09-22,34,Recovered,UPI,2026-10-22,Agent_B,Yes,7800
+D031,C031,Omkar Patil,16700,2026-07-20,102,In Progress,Bank Transfer,2026-10-12,Agent_C,No,4700
+D032,C032,Alisha Khan,5900,2026-10-08,17,Partially Paid,UPI,2026-10-20,Agent_A,Yes,1900
+D033,C033,Yash Chawla,24000,2026-06-25,123,Pending,Not Specified,2026-10-06,Agent_D,No,0
+D034,C034,Sana Sheikh,4400,2026-10-20,0,Pending,Not Specified,2026-10-23,Agent_B,No,0
+D035,C035,Rajiv Nambiar,14000,2026-08-12,75,Promise to Pay,Bank Transfer,2026-10-22,Agent_C,Yes,0
+D036,C036,Trisha Roy,8700,2026-09-12,44,Recovered,UPI,2026-10-21,Agent_A,Yes,8700
+D037,C037,Parth Trivedi,20500,2026-07-01,117,In Progress,Credit Card,2026-10-15,Agent_D,No,5500
+D038,C038,Kiara Sood,6200,2026-09-28,29,Partially Paid,UPI,2026-10-22,Agent_B,Yes,2200
+D039,C039,Abhishek Ghosh,28500,2026-06-05,143,Pending,Not Specified,2026-10-10,Agent_C,No,0
+D040,C040,Avni Shetty,7600,2026-09-17,40,Promise to Pay,Bank Transfer,2026-10-23,Agent_A,Yes,0
+D041,C041,Suraj Yadav,11800,2026-08-18,69,In Progress,UPI,2026-10-16,Agent_D,No,2800
+D042,C042,Nisha Pillai,5300,2026-10-02,24,Recovered,UPI,2026-10-19,Agent_B,Yes,5300
+D043,C043,Deepak Arora,23000,2026-07-08,110,In Progress,Bank Transfer,2026-10-14,Agent_C,Yes,6000
+D044,C044,Palak Bhatia,6900,2026-09-26,30,Partially Paid,UPI,2026-10-22,Agent_A,Yes,1900
+D045,C045,Samar Khanna,17500,2026-08-03,84,Pending,Not Specified,2026-10-11,Agent_D,No,0
+D046,C046,Reva Mukherjee,9800,2026-09-14,43,Promise to Pay,Bank Transfer,2026-10-23,Agent_B,Yes,0
+D047,C047,Ishaan Choudhary,26500,2026-06-18,131,In Progress,Credit Card,2026-10-18,Agent_C,No,7500
+D048,C048,Janvi Deshmukh,4100,2026-10-11,4,Recovered,UPI,2026-10-22,Agent_A,Yes,4100
+D049,C049,Anmol Tiwari,15500,2026-08-22,65,Partially Paid,Bank Transfer,2026-10-21,Agent_D,Yes,4500
+D050,C050,Shreya Das,8900,2026-09-03,53,Promise to Pay,UPI,2026-10-23,Agent_B,Yes,0
